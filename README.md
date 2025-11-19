@@ -1,6 +1,6 @@
 # Ground Control (Version factice)
 
-Repo complet :  `[https://rncp37827.elpulpo.xyz](https://github.com/elpulpo0/RNCP37827)`
+Repo complet :  `https://github.com/elpulpo0/RNCP37827`
 
 ## Présentation
 
