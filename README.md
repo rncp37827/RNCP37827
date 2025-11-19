@@ -156,7 +156,7 @@ RNCP37827/
 └── run_frontend.py                                     # Script pour exécuter le frontend (développement local)
 ```
 
-**Si vous souhaitez simplement tester l'application, visitez [https://rncp37827.elpulpo.xyz](https://github.com/elpulpo0/RNCP37827) et rendez-vous directement [à l'étape 6](#6-tester-lapplication), sinon continuez votre lecture.**
+**Si vous souhaitez simplement tester l'application, visitez [https://rncp37827.elpulpo.xyz]([https://github.com/elpulpo0/RNCP37827](https://rncp37827.elpulpo.xyz)) et rendez-vous directement [à l'étape 6](#6-tester-lapplication), sinon continuez votre lecture.**
 
 ## Prérequis
 
